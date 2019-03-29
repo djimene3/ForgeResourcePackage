@@ -67,7 +67,7 @@ public class BaseMod
 		RecipeMod.init();
 		
 		WorldMod.init();
-
+		QuickSounds.registerSounds();
 
 	}
 

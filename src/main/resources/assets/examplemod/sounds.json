@@ -1,0 +1,17 @@
+{
+    "open_chest": {
+      "category": "block",
+      "subtitle": "mymod.subtitle.openChest",
+      "sounds": [ "mymod:open_chest_sound_file" ]
+    },
+    "oof": {
+      "category": "record",
+      "subtitle": "oof",
+      "sounds": [
+        {
+          "name": "examplemod:oof",
+          "stream": true
+        }
+      ]
+    }
+  }
